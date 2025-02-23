@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Practicing on Cyber Security <br>🌱 I’m currently learning on TryHackMe<br>💬 Ask me about Computer Networking, Python
+🔭 I’m currently learning on Cyber Security <br>🌱 I’m currently practicing on TryHackMe<br>💬 Ask me about Computer Networking, Python
 
 
 ## 🌐 Socials:
