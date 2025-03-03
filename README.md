@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=dark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔭 I’m currently working on:
 - [TryHackMe](https://tryhackme.com/p/sujalfaganiya200)
