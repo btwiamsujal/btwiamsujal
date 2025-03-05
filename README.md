@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🔭 I’m currently working on:
 - [TryHackMe](https://tryhackme.com/p/sujalfaganiya200)
 
@@ -47,6 +45,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api?username=btwiamsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=btwiamsujal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btwiamsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
