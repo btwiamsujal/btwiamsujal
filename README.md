@@ -21,7 +21,7 @@
 ### ⚡ Fun fact:
 - I am interested in inventions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-patel-45b632266)
@@ -47,10 +47,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api?username=btwiamsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=btwiamsujal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btwiamsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=btwiamsujal&icon=0&color=0)](https://visitcount.itsvg.in)
