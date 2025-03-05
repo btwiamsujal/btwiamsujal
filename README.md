@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sujal Patel
 ### A passionate Cyber Security Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ### 🔭 I’m currently working on:
 - [TryHackMe](https://tryhackme.com/p/sujalfaganiya200)
@@ -43,6 +43,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 GitHub Stats:
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
