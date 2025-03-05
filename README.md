@@ -21,6 +21,8 @@
 ### ⚡ Fun fact:
 - I am interested in inventions.
 
+![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-patel-45b632266)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22262909)
@@ -43,8 +45,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Profile Views](https://komarev.com/ghpvc/?username=btwiamsujal&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 GitHub Stats:
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btwiamsujal&theme=onestar&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
