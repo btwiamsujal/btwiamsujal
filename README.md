@@ -16,7 +16,7 @@
 - **sujalfaganiya2005@gmail.com**
 
 ### 📄 Know about my experiences:
-- [Resume](https://drive.google.com/file/d/1gjNPCWsN_rCIadeKooDfzg55pFP8BqZP/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1fIuGZTetQSae8VGP5IRn5ISopTUfyojq/view?usp=sharing)
 
 ### ⚡ Fun fact:
 - I am interested in inventions.
