@@ -2,7 +2,6 @@
 ### A passionate Cyber Security Enthusiast 
 
 
-
 ### 🔭 I’m currently working on:
 - [TryHackMe](https://tryhackme.com/p/sujalfaganiya200)
 
