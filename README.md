@@ -9,7 +9,7 @@
 - Computer Networks & Cyber Security topics
 
 ### 👨‍💻 All of my projects are available at:
-- [My Portfolio](https://portfolio-beige-phi-64.vercel.app/)
+- [My Portfolio](https://newtechcv-production.up.railway.app/)
 
 ### 📫 How to reach me:
 - **sujalfaganiya2005@gmail.com**
